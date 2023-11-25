@@ -41,7 +41,7 @@ Visualize the performance of the classification algorithms by plotting confusion
 Make sure to check the dataset for any updates or changes.
 
 ## Acknowledgments
-The dataset used in this project is provided by subashgandyer.
+The dataset used in this project is provided by subashgandyer(https://github.com/subashgandyer).
 
 Feel free to customize and extend the code to suit your specific needs or experiment with different NLP techniques and algorithms.
 
